@@ -18,4 +18,4 @@
 <h1>Web Scraper</h1>
 
 <h1>Contributer </h1>
-<p>Md Faizan </p> <a href="https://github.com/mdfaizan79">GitHUB Link</a>
+<p>Md Faizan <a href="https://github.com/mdfaizan79">GitHUB Link</a>  </p>
