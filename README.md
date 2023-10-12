@@ -15,4 +15,7 @@
 
 ![](https://i.imgur.com/waxVImv.png)
 
-<h1>Web Scraper</h1>
+# Web Scraper
+
+# Contributers
+[Faiz Ahmed](https://github.com/ahmfaiz)
