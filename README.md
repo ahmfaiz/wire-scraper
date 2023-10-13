@@ -17,5 +17,5 @@
 
 # Web Scraper
 
-# Contributers
+# Contributors
 [Faiz Ahmed](https://github.com/ahmfaiz)
